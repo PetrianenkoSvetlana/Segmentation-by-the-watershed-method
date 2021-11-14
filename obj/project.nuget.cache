@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "++LImmEk1DqOClTN5Y+HSwCp5CjQSdW0+ClWHoxIkhFfN+9K6BBWlK1vNcNHP5whMqAaJnzEjDSUzKWW9d+Xhw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\1\\Desktop\\Новая папка\\КОМПЬЮТЕРНОЕ ЗРЕНИЕ\\Segmentation by the watershed method\\Lab7.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\1\\.nuget\\packages\\emgu.cv\\4.4.0.4099\\emgu.cv.4.4.0.4099.nupkg.sha512",
+    "C:\\Users\\1\\.nuget\\packages\\emgu.cv.bitmap\\4.4.0.4099\\emgu.cv.bitmap.4.4.0.4099.nupkg.sha512",
+    "C:\\Users\\1\\.nuget\\packages\\emgu.cv.runtime.windows\\4.4.0.4099\\emgu.cv.runtime.windows.4.4.0.4099.nupkg.sha512",
+    "C:\\Users\\1\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\1\\.nuget\\packages\\system.drawing.primitives\\4.3.0\\system.drawing.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\1\\.nuget\\packages\\system.runtime\\4.3.1\\system.runtime.4.3.1.nupkg.sha512",
+    "C:\\Users\\1\\.nuget\\packages\\system.runtime.interopservices.runtimeinformation\\4.3.0\\system.runtime.interopservices.runtimeinformation.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
